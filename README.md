@@ -3,11 +3,13 @@
 2. Project Description: The objective of this project was to familirize myself with several applications including Anaconda PowerShell Prompt, VSCode, Jupyter Notebook, Github, and Render.  Within VSCode I built my directorty to include Streamlit, EDA notebooks, app.py, README, and my csv vehicle_us file. I was able to import pandas and plotly express and view the csv dataset in EDA as well as clean the data, searching for duplicates and missing values, replace applicable missing values, and utilize app.py st.header, st.write, and st.checkbox to describe my histogram and scatterplot to help the reader visualize vehicle price vs vehicle model and those specifically less than 20K. I also familirized myself with Github and Render to ensure my reader had central accessability to my repository, and the created weblink to my VSCode project. 
 
 3. How to Install and Run the Project
-To install the project: https://github.com/slewis8385/sprint_4_project.git
+1. Download Github
+2. Utilize the following link: https://github.com/slewis8385/sprint_4_project.git
 
 Provide a step-by-step description of how to get the development environment set and running.
 
-5. How to Use the Project
+5. How to Use the Project:
+1. Download Github
 Provide instructions and examples so users/contributors can use the project. This will make it easy for them in case they encounter a problem – they will always have a place to reference what is expected.
 
 You can also make use of visual aids by including materials like screenshots to show examples of the running project and also the structure and design principles used in your project.
