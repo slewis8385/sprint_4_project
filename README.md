@@ -5,7 +5,6 @@
 3. How to Install and Run the Project
 To install the project: https://github.com/slewis8385/sprint_4_project.git
 
-
 Provide a step-by-step description of how to get the development environment set and running.
 
 5. How to Use the Project
